@@ -1,3 +1,4 @@
+# Ahoj, tohle je zkusebni testovaci skript, jsem zvedava na vase zmeny!
 def secti(a, b):
     return a + b
 
